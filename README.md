@@ -28,7 +28,7 @@ __For run execute:__
 python3 index.py
 ```
 
-__But, you should have an openweathermap account in order to receive the data. This website needs a key to be able to access the data. So you can create an account [here](openweathermap.org). After creating it, you can access your access keys [here](home.openweathermap.org/api_keys). Register with your account and you will see an access key. You can use that default key or create a new one.__
+__But, you should have an openweathermap account in order to receive the data. This website needs a key to be able to access the data. So you can create an account [here](https://openweathermap.org). After creating it, you can access your access keys [here](https://home.openweathermap.org/api_keys). Register with your account and you will see an access key. You can use that default key or create a new one.__
 
 __Then copy that key and create an environment variable with the name APPID and the value of your key.__
 
