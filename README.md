@@ -50,7 +50,7 @@ __Edit the file ~/.bashrc:__
 nano ~/.bashrc
 ```
 
-__Write to end of file: __
+__Write to end of file:__
 
 ```txt
 export APPID = your_key
